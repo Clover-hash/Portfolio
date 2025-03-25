@@ -1,9 +1,16 @@
 body{
-    background-color: #3198CE;
+    background-color: #5F8B4C;
 }
 h1{
-    color: #CE6731;
+    color: #FFDDAB;
+    font-family: Helvetica;
+}
+h2{
+    color:#FF9A9A;
 }
 p{
-    color: #314ACE;
+    border: 2px solid powderblue;
+    padding : 30px;
+    color: #945034;
+    font-family: Arial;
 }
