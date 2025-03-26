@@ -3,6 +3,8 @@ body{
 }
 h1{
     color: #FFDDAB;
+    margin: auto;
+
     font-family: Helvetica;
 }
 h2{
@@ -13,4 +15,15 @@ p{
     padding : 30px;
     color: #945034;
     font-family: Arial;
+}
+.text{
+    background-color: powderblue;
+}
+
+.nav{
+    display: block;
+    position:fixed;
+    top: 0%;
+    
+    background-color: antiquewhite;
 }
