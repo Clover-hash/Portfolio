@@ -2,9 +2,8 @@ body{
     background-color: #5F8B4C;
 }
 h1{
-    color: #FFDDAB;
+    color: black;
     margin: auto;
-
     font-family: Helvetica;
 }
 h2{
@@ -24,6 +23,29 @@ p{
     display: block;
     position:fixed;
     top: 0%;
-    
+    background-color: antiquewhite;
+}
+
+.Introbuttons{
+    display: block;
+    position: fixed;
+    top: 0%;
+    right: 33.7%;
+    background-color: antiquewhite;
+}
+
+.EEbuttons{
+    display: block;
+    position: fixed;
+    top: 0%;
+    right: 8.7%;
+    background-color: antiquewhite;
+}
+
+.Pbuttons{
+    display: block;
+    position: fixed;
+    top: 0%;
+    right: 0%;
     background-color: antiquewhite;
 }
